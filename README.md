@@ -3,7 +3,7 @@ MINDPROT: Markov Inside for Drugs and Proteins
 
 Background:
 
-MINDPRROT application based on the MARCH-INSIDE: Markov Chain Invariants for Networks Simulation and Design MARCH-INSIDE (MI). MI is a well-known method introduced by Prof. Humbert G Díaz (Gonzaléz-Díaz et al.) as early as 2002 for the calculation of Markov Invariants (Moments, Shanon entropies, Mean Markov values) of molecular graphs and complext netxorks using a Markov chain stchastic approach. In case you want to develop new collaborations, applications, etc. related to MI algorith please do not hesitate to contact us at: https://www.linkedin.com/in/humbertgdiaz/
+MINDPRROT application based on the MARCH-INSIDE: Markov Chain Invariants for Networks Simulation and Design MARCH-INSIDE (MI) https://github.com/glezdiazh/MARCH-INSIDE. MI is a well-known method introduced by Prof. Humbert G Díaz (Gonzaléz-Díaz et al.) as early as 2002 for the calculation of Markov Invariants (Moments, Shanon entropies, Mean Markov values) of molecular graphs and complext netxorks using a Markov chain stchastic approach. In case you want to develop new collaborations, applications, etc. related to MI algorith please do not hesitate to contact us at: https://www.linkedin.com/in/humbertgdiaz/
 
 MINDPROT Specificities:
 
